@@ -20,19 +20,17 @@ body {
      background-color: #ffffff;
 }
 
+.developer img {
+     max-width: 300px;
+}
+
 header {
-     height: 160px;
-     background-image: url("sulin-logo.svg");
+
      background-repeat: no-repeat;
      background-size: 300px 100px;
 }
 
-h1 {
-     text-indent: -9999px;
-     max-width: 940px;
-     height: 130px;
-     margin: 0px;
-}
+
 
 nav {
      clear: both;
@@ -151,5 +149,5 @@ footer {
       padding: 7px 0px 0px 20px;
 }
 .content{
-      padding: 7px;
+      padding: 3%;
 }
